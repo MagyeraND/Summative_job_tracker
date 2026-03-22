@@ -1,1 +1,16 @@
-/* main styles */
+body {
+  background: #f7f8fb;
+}
+
+.card {
+  border-radius: 14px;
+}
+
+@media (min-width: 992px) {
+  .sticky-search {
+    position: sticky;
+    top: 1rem;
+    max-height: calc(100vh - 2rem);
+    overflow: auto;
+  }
+}
