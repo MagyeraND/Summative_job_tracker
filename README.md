@@ -5,6 +5,8 @@ APIs Used
 Adzuna Jobs API — job listings
 REST Countries API — country list and flags
 
+Demo vide link: https://drive.google.com/file/d/1lXIC_vrjR4Eqh0ZdgNJKlTnZpgWXJDGV/view?usp=sharing
+
 Running Locally
 bashgit clone https://github.com/MagyeraND/Summative_job_tracker.git
 cd Summative_job_tracker
